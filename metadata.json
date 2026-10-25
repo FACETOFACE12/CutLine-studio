@@ -1,0 +1,8 @@
+{
+  "name": "Remix CutLine Post-Production Assistant Workbench",
+  "description": "Hollywood-grade post-production assistant editor workbench featuring industrial asset governance, SMPTE timecode sync, codec and ACES/CST color science pipelines, NLE error diagnostics, hardware thermal monitoring, and an AI Senior Assistant Editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
